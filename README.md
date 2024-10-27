@@ -15,6 +15,8 @@ The app can be found in the <b>Final App<b> folder of this repository. Install i
 2. <b>Get Started:</b> Once permissions are set, you’ll see the GeoAR interface. Tap 'Instructions' if you need guidance, or choose 'Start' to dive in!
 3. <b>Explore Geography:</b> Grab any outline map and position it within the camera view to explore interactive details on rivers, capitals, soil types, languages, and terrain.
 
+## Documentation
+We have documented our entire development process for the benefit of the people who use the app and for other developers as well. The detailed documentation of the app can be found here: [documentation link]
 
 ## Meet our Team
 1. Arkaprava Gaine
